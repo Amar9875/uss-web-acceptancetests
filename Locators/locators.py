@@ -1,0 +1,36 @@
+class Locators():
+    
+    #login page objects
+    loginbutton_button_xpath   = "//body/div[@class='js-wrapper']/header[@class='c-header']/div[@class='c-header__inner']/div[@class='c-header__links']/a[1]"
+    emailaddress_textbox_xpath = "//input[@id='email']"
+    next_button_xpath          = "//button[contains(text(),'Next')]"
+    password_textbox_xpath     = "//input[@id='password']"
+    pin_digit_one_xpath        = "//input[@id='pinDigitOne']"
+    pin_digit_two_xpath        = "//input[@id='pinDigitTwo']"
+    pin_digit_three_xpath      = "//input[@id='pinDigitThree']"
+    login_button_xpath         = "//button[contains(text(),'Login')]"
+    invalidemailaddress_message_xpath = "//p[@id='emailFormatError']"
+    login_successful_xpath     = "//div[@class='c-myuss-title']"
+    logout_xpath               = "//body/div[@class='js-wrapper']/header[@class='c-header']/div[@class='c-header__inner']/div[@class='c-header__links']/form[@class='c-header__links-form']/button[1]"
+    
+    #Registration Page objects
+    registerbutton_button_xpath      = "//body/div[@class='js-wrapper']/header[@class='c-header']/div[@class='c-header__inner']/div[@class='c-header__links']/a[2]"
+    membernumber_textbox_xpath       = "//input[@id='memberNumber']"
+    emailaddress_textbox_xpath       = "//input[@id='email']"
+    mobile_textbox_xpath             = "//input[@id='mobile']"
+    password_textbox_xpath           = "//input[@id='password']"
+    confirmpassword_textbox_xpath    = "//input[@id='confirm-password']"
+    securityquestion_dropdown_xpath  = "//select[@class='c-field__select']"
+    securityanswer_textbox_xpath     = "//input[@id='securityAnswer']"
+    next_button_xpath                = "//button[contains(text(),'Next')]"
+    nationalinsurance_textbox_xpath  = "//input[@id='nationalInsurance']"
+    surname_textbox_xpath            = "//input[@id='surname']"
+    gender_radiobutton_male_xpath    = "//legend[@class='c-field__label']/following::label[1]"
+    gender_radiobutton_female_xpath  = "//legend[@class='c-field__label']/following::label[2]"
+    dateofbirth_date_xpath           = "//input[@id='date']"
+    dateofbirth_month_xpath          = "//input[@id='month']"
+    dateofbirth_year_xpath           = "//input[@id='year']"
+    termsandconditions_checkbox_xpath= "//span[contains(text(),'I agree to the')]"
+    completeregistration_button_xpath= "//button[@class='c-button']"
+    registrationunsuccessful_message_xpath = "//h2[@class='c-form__error-subheading']"
+    

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="AnyEditTools:2.6.1.201711281546"/>
+		<item value="org.eclipse.egit:5.5.1.201910021850-r"/>
+		<item value="org.eclipse.emf.common:2.16.0.v20190625-1131"/>
+		<item value="org.eclipse.emf.ecore:2.19.0.v20190822-1451"/>
+		<item value="org.eclipse.epp.mpc:1.7.7.v20190521-1752"/>
+		<item value="org.eclipse.help:2.2.700.v20190916-1045"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.5.1.201910021850-r"/>
+		<item value="org.eclipse.jgit:5.5.1.201910021850-r"/>
+		<item value="org.eclipse.platform:4.13.0.v20190916-1323"/>
+		<item value="org.eclipse.rcp:4.13.0.v20190916-1045"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20190308-0433"/>
+		<item value="org.python.pydev.feature:7.4.0.201910251202"/>
+	</list>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\development\uss-web-acceptancetests\Tests"/>
+			<item value="C:\development\uss-web-acceptancetests\Screenshots"/>
+			<item value="C:\development\uss-web-acceptancetests\Pytests"/>
+			<item value="C:\development\uss-web-acceptancetests\Pages"/>
+			<item value="C:\development\uss-web-acceptancetests\Locators"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="550"/>
+		<item key="DIALOG_Y_ORIGIN" value="151"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="419"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="497"/>
+		<item key="DIALOG_Y_ORIGIN" value="251"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

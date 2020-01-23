@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 2" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="C:\development\uss-web-acceptancetests\Tests\Test_Login.py" status="error" test="Test_Login" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Program Files\Brainwy\LiClipse 6.0.0\plugins\org.python.pydev.core_7.4.0.201910251202\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:/development/uss-web-acceptancetests/Tests\Test_Login.py", line 3, in <module>
+    from Pages.loginpage import LoginPage
+ModuleNotFoundError: No module named 'Pages'
+ERROR: Module: Test_Login could not be imported (file: C:\development\uss-web-acceptancetests\Tests\Test_Login.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Tests Test_Login.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>
